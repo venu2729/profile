@@ -1,0 +1,48 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+header{
+    background-color: black;
+    color: whitesmoke;
+    padding: 20px;
+}
+nav ul li{
+    display: inline;
+    margin-right: 10px;
+}
+nav ul li a{
+    color: burlywood;
+    text-decoration: none;
+}
+#Home{
+    padding: 10px;
+}
+#Bio{
+    padding: 10px;
+}
+#Home img{
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+}
+#Skills{
+    padding: 10px;
+}
+#Contact{
+    padding: 10px;
+}
+footer{
+    background-color: black;
+    color: azure;
+    padding: 20px;
+}
+li {
+    display: inline;
+    margin-right: 10px;
+
+}
+#Portfolio {
+    background-color: rgb(197, 119, 246);
+    padding: 10px;
+}
